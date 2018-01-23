@@ -11,7 +11,7 @@ Created by Eric Andrade Ferreira
 08-10-2017
 */
 
-namespace Recepcao.Aplicacao
+namespace Solution.YourProject
 {
     public class DynamicToObj
     {
