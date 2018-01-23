@@ -12,8 +12,8 @@ git clone https://github.com/ericferreira1992/ngConfirm
 ![alt tag](image.png)
 
 ### Usage
-```c#
-  DynamicToObj.MapperObject<PendenciaPacienteFaturamentoDTO>(objDynamic);
+```c++
+  DynamicToObj.MapperObject<DadosUsuario>(objDynamic);
 ```
 
 ---
