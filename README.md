@@ -3,9 +3,9 @@ Class that converts a dynamic object to a typed object.
 
 ---
 
-### Install (npm)
+### Install (gitHub)
 ```
-npm install dynamicToObject
+git clone https://github.com/ericferreira1992/ngConfirm
 ```
 
 ### Issue
